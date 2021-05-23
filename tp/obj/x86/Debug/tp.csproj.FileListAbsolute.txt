@@ -1,0 +1,6 @@
+/home/lucas/Projects/tp/tp/bin/Debug/tp.exe
+/home/lucas/Projects/tp/tp/bin/Debug/tp.pdb
+/home/lucas/Projects/tp/tp/obj/x86/Debug/tp.csprojAssemblyReference.cache
+/home/lucas/Projects/tp/tp/obj/x86/Debug/tp.csproj.CoreCompileInputs.cache
+/home/lucas/Projects/tp/tp/obj/x86/Debug/tp.exe
+/home/lucas/Projects/tp/tp/obj/x86/Debug/tp.pdb

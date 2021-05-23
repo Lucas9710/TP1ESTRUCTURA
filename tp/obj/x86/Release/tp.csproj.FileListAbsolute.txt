@@ -1,0 +1,4 @@
+/home/lucas/Projects/tp/tp/bin/Release/tp.exe
+/home/lucas/Projects/tp/tp/obj/x86/Release/tp.csproj.CoreCompileInputs.cache
+/home/lucas/Projects/tp/tp/obj/x86/Release/tp.exe
+/home/lucas/Projects/tp/tp/obj/x86/Release/tp.csprojAssemblyReference.cache
